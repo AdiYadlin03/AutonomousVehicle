@@ -1,2 +1,2 @@
 # AutonomousVehicle
-Project for Autonomous Software Development course.
+Project for Autonomous Vehicle Software Development course.
